@@ -1,0 +1,491 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.15)  18 SEP 2018 05:57
+entering extended mode
+**./assignment01.tex
+(assignment01.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex
+.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.cfg"))
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
+.sty"
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
+sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen113
+\Hy@linkcounter=\count91
+\Hy@pagecounter=\count92
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
+ef"
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count93
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
+.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count94
+ ("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen114
+\Fld@menulength=\count95
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
+def"
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+\c@bookmark@seq@number=\count100
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
+echeck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+"
+Package: babel 2018/06/05 3.22 The Babel package
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.de
+f"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\eng
+lish.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+"
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count101
+\U@D=\dimen117
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.
+def")
+\bbl@dirlevel=\count102
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) (assignment01.aux)
+\openout1 = `assignment01.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(62.59596pt, 472.31595pt, 62.59596pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=472.31595pt
+* \textheight=702.78308pt
+* \oddsidemargin=-9.67403pt
+* \evensidemargin=-9.67403pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen118
+\scratchbox=\box26
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen119
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks17
+)
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box27
+Package hyperref Info: Link coloring OFF on input line 16.
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
+sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\cal_00\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
+lestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count109
+)
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
+ (assignment01.out) (assignment01.out)
+\@outlinefile=\write3
+\openout3 = `assignment01.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+<c02.PNG, id=75, 456.20438pt x 55.70813pt>
+File: c02.PNG Graphic file (type png)
+<use c02.PNG>
+Package pdftex.def Info: c02.PNG  used on input line 24.
+(pdftex.def)             Requested size: 398.34946pt x 85.36488pt.
+<c01.PNG, id=77, 437.38406pt x 278.54062pt>
+File: c01.PNG Graphic file (type png)
+<use c01.PNG>
+Package pdftex.def Info: c01.PNG  used on input line 29.
+(pdftex.def)             Requested size: 398.34045pt x 199.17203pt.
+ [1
+
+{C:/Users/cal_00/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./c02.PNG>
+ <./c01.PNG>]
+<gitdiff.PNG, id=90, 440.39531pt x 129.48375pt>
+File: gitdiff.PNG Graphic file (type png)
+<use gitdiff.PNG>
+Package pdftex.def Info: gitdiff.PNG  used on input line 37.
+(pdftex.def)             Requested size: 398.35463pt x 150.81569pt.
+<gitstatus.PNG, id=91, 445.665pt x 118.94438pt>
+File: gitstatus.PNG Graphic file (type png)
+<use gitstatus.PNG>
+Package pdftex.def Info: gitstatus.PNG  used on input line 41.
+(pdftex.def)             Requested size: 398.34067pt x 150.8072pt.
+<gitcommit.PNG, id=92, 443.40656pt x 58.71938pt>
+File: gitcommit.PNG Graphic file (type png)
+<use gitcommit.PNG>
+Package pdftex.def Info: gitcommit.PNG  used on input line 45.
+(pdftex.def)             Requested size: 398.36533pt x 71.13216pt.
+<gitcommita.PNG, id=93, 447.92343pt x 51.19125pt>
+File: gitcommita.PNG Graphic file (type png)
+<use gitcommita.PNG>
+Package pdftex.def Info: gitcommita.PNG  used on input line 49.
+(pdftex.def)             Requested size: 398.34987pt x 71.13687pt.
+ [2 <./gitdiff.PNG> <./gitstatus.PNG> <./gitcommit.PNG> <./gitcommita.PNG>]
+<gitlog.PNG, id=102, 445.665pt x 85.06781pt>
+File: gitlog.PNG Graphic file (type png)
+<use gitlog.PNG>
+Package pdftex.def Info: gitlog.PNG  used on input line 55.
+(pdftex.def)             Requested size: 398.34067pt x 71.13585pt.
+<gitlogp.PNG, id=103, 446.41782pt x 187.45032pt>
+File: gitlogp.PNG Graphic file (type png)
+<use gitlogp.PNG>
+Package pdftex.def Info: gitlogp.PNG  used on input line 59.
+(pdftex.def)             Requested size: 398.346pt x 71.13174pt.
+<branch.PNG, id=104, 551.05875pt x 219.06844pt>
+File: branch.PNG Graphic file (type png)
+<use branch.PNG>
+Package pdftex.def Info: branch.PNG  used on input line 66.
+(pdftex.def)             Requested size: 398.35118pt x 156.49234pt.
+<branch00.PNG, id=105, 554.07pt x 344.78813pt>
+File: branch00.PNG Graphic file (type png)
+<use branch00.PNG>
+Package pdftex.def Info: branch00.PNG  used on input line 68.
+(pdftex.def)             Requested size: 284.52493pt x 199.1723pt.
+ [3 <./gitlog.PNG> <./gitlogp.PNG> <./branch.PNG> <./branch00.PNG>]
+<branch01.PNG, id=115, 432.86719pt x 300.3722pt>
+File: branch01.PNG Graphic file (type png)
+<use branch01.PNG>
+Package pdftex.def Info: branch01.PNG  used on input line 73.
+(pdftex.def)             Requested size: 284.53734pt x 199.17665pt.
+<branch02.PNG, id=116, 440.39531pt x 153.57375pt>
+File: branch02.PNG Graphic file (type png)
+<use branch02.PNG>
+Package pdftex.def Info: branch02.PNG  used on input line 77.
+(pdftex.def)             Requested size: 284.53326pt x 199.18185pt.
+File: branch00.PNG Graphic file (type png)
+<use branch00.PNG>
+Package pdftex.def Info: branch00.PNG  used on input line 81.
+(pdftex.def)             Requested size: 284.52493pt x 199.1723pt.
+ [4 <./branch01.PNG> <./branch02.PNG>]
+<gitpull01.PNG, id=123, 788.9475pt x 426.84468pt>
+File: gitpull01.PNG Graphic file (type png)
+<use gitpull01.PNG>
+Package pdftex.def Info: gitpull01.PNG  used on input line 87.
+(pdftex.def)             Requested size: 398.33708pt x 199.17111pt.
+<gitpull02.PNG, id=124, 435.87843pt x 145.29282pt>
+File: gitpull02.PNG Graphic file (type png)
+<use gitpull02.PNG>
+Package pdftex.def Info: gitpull02.PNG  used on input line 89.
+(pdftex.def)             Requested size: 398.33934pt x 199.18295pt.
+<gitpull03.PNG, id=125, 559.33969pt x 232.61906pt>
+File: gitpull03.PNG Graphic file (type png)
+<use gitpull03.PNG>
+Package pdftex.def Info: gitpull03.PNG  used on input line 91.
+(pdftex.def)             Requested size: 398.35443pt x 199.17531pt.
+ [5 <./gitpull01.PNG> <./gitpull02.PNG> <./gitpull03.PNG>]
+<gitclone01.PNG, id=133, 448.67625pt x 161.10187pt>
+File: gitclone01.PNG Graphic file (type png)
+<use gitclone01.PNG>
+Package pdftex.def Info: gitclone01.PNG  used on input line 96.
+(pdftex.def)             Requested size: 398.35529pt x 199.17673pt.
+<gitclone02.PNG, id=134, 667.74469pt x 308.65312pt>
+File: gitclone02.PNG Graphic file (type png)
+<use gitclone02.PNG>
+Package pdftex.def Info: gitclone02.PNG  used on input line 98.
+(pdftex.def)             Requested size: 398.3472pt x 199.17627pt.
+ [6 <./gitclone01.PNG> <./gitclone02.PNG>]
+<gitremote.PNG, id=141, 443.40656pt x 42.1575pt>
+File: gitremote.PNG Graphic file (type png)
+<use gitremote.PNG>
+Package pdftex.def Info: gitremote.PNG  used on input line 104.
+(pdftex.def)             Requested size: 398.36533pt x 48.37073pt.
+<gitfetch.PNG, id=142, 448.67625pt x 92.59593pt>
+File: gitfetch.PNG Graphic file (type png)
+<use gitfetch.PNG>
+Package pdftex.def Info: gitfetch.PNG  used on input line 110.
+(pdftex.def)             Requested size: 398.35529pt x 142.26611pt.
+<gitpush.PNG, id=143, 441.14813pt x 148.30406pt>
+File: gitpush.PNG Graphic file (type png)
+<use gitpush.PNG>
+Package pdftex.def Info: gitpush.PNG  used on input line 116.
+(pdftex.def)             Requested size: 398.35573pt x 199.17671pt.
+ [7 <./gitremote.PNG> <./gitfetch.PNG> <./gitpush.PNG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+ [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+ (assignment01.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+Package rerunfilecheck Info: File `assignment01.out' has not changed.
+(rerunfilecheck)             Checksum: DC39BFC61544A8958278DA329C6927CF;1215.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
+ ) 
+Here is how much of TeX's memory you used:
+ 6076 strings out of 492973
+ 91551 string characters out of 3126249
+ 190999 words of memory out of 3000000
+ 9859 multiletter control sequences out of 15000+200000
+ 8541 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 28i,6n,28p,350b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/cal_00/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><C:/Users/cal_00/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Users/cal_00/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/cal_00/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/cal_00/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/
+cal_00/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.
+pfb>
+Output written on assignment01.pdf (8 pages, 302903 bytes).
+PDF statistics:
+ 185 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+
